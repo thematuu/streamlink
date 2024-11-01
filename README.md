@@ -10,6 +10,8 @@ Questions, suggestions, requests, reach me out on [![alt text][1.1]][1]
 I'm also interested with new projects for automation of daily popular tasks, don't hesitate, I'm waiting for new ideas
 
 # Notes
+## 3.2.0.1
+Made ffmpeg to convert to real mp4
 
 ## 3.2.0
 Added support for optional OAuth token parameter to authenticate Twitch API requests.
